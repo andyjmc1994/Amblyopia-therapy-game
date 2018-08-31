@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eec1662f607ac4604b5272f13012d400
+timeCreated: 1494254143
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TT Bricks Medium Italic DEMO
+  fontNames:
+  - TT Bricks Medium Italic DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
